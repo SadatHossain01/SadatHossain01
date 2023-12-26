@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/sadat-hossain-01?cardType=level&theme=dark&preferLogin=false)](https://git.io/awesome-stats-card)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sadat-hossain-01\&layout=pie)
