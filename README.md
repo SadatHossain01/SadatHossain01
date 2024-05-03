@@ -1,7 +1,7 @@
 ## Hi! 👋
 
 <!--
-**sadat-hossain-01/sadat-hossain-01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**SadatHossain01/SadatHossain01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 
 -->
@@ -12,11 +12,11 @@ This is **Mohammad Sadat Hossain**, a **Senior Year (Level-4, Term 1) CS Undergr
 
 <div align="center">
   
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sadat-hossain-01&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SadatHossain01&theme=dracula)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sadat-hossain-01&theme=dracula) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sadat-hossain-01&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SadatHossain01&theme=dracula) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SadatHossain01&theme=dracula)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sadat-hossain-01&theme=dracula) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sadat-hossain-01&theme=dracula&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SadatHossain01&theme=dracula) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SadatHossain01&theme=dracula&utcOffset=8)
 
 </div>
 
