@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 
 -->
 
-This is **Mohammad Sadat Hossain**, a **Senior Year (Level-4, Term 2) CS Undergraduate Student** at **Bangladesh University of Engineering and Technology**.
+This is **Mohammad Sadat Hossain**, a **CS Undergrad** from **Bangladesh University of Engineering and Technology**.
 
 ## Profile Overview
 
